@@ -1,7 +1,7 @@
-![elipce](https://media.licdn.com/media/p/1/005/095/069/21f0cb2.png)
+# [Ressource](https://blog.hootsuite.com/fr/comment-mesurer-les-7-indicateurs-qui-comptent-vraiment-sur-les-reseaux-sociaux/)
+
 # Comment booster votre analyse des médias sociaux de 7 façons.
 > Lorsque votre manager vous demande le ROI de la dernière campagne que vous avez mise en place sur les réseaux sociaux, que répondez-vous ? De nombreux responsables des médias sociaux utilisent des réponses trop faciles : nous avons gagné tant d’abonnés sur Twitter, obtenu tant de retweets, de partages Facebook et ainsi de suite. Effectivement, ces indicateurs proposent des informations de surface sur la performance d’une campagne ou d’un contenu en particulier, mais ils ne montrent pas vraiment à votre patron en quoi vos initiatives ont des retombées sur le résultat net.
-[Ressource](https://blog.hootsuite.com/fr/comment-mesurer-les-7-indicateurs-qui-comptent-vraiment-sur-les-reseaux-sociaux/)
 
 ## 1. Ne comptabilisez pas que les « J’aime », tenez compte du taux d’appréciation
 Nous courons tous après les mentions J’aime sur les médias sociaux, mais cet indicateur n’est pas intéressant lorsqu’il est étudié seul. Avinash Kaushik vous suggère plutôt de calculer `le taux d’appréciation ou « applause rate », qui correspond au ratio des mentions J’aime par publication sur le nombre total d’abonnés (ou de personnes aimant une Page Facebook)` que vous avez. Ce calcul vous fournira le contexte nécessaire pour que les mentions J’aime soient plus qu’un simple nombre que l’on sort pour fanfaronner. Le taux d’appréciation vous indiquera précisément la part de votre public qui trouve votre contenu intéressant (ou pas).
