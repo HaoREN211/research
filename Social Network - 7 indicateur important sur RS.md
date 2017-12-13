@@ -1,4 +1,4 @@
-# [Ressource](https://blog.hootsuite.com/fr/comment-mesurer-les-7-indicateurs-qui-comptent-vraiment-sur-les-reseaux-sociaux/)
+# [Ressource Hootsuite Analytics](https://blog.hootsuite.com/fr/comment-mesurer-les-7-indicateurs-qui-comptent-vraiment-sur-les-reseaux-sociaux/)
 
 # Comment booster votre analyse des médias sociaux de 7 façons.
 > Lorsque votre manager vous demande le ROI de la dernière campagne que vous avez mise en place sur les réseaux sociaux, que répondez-vous ? De nombreux responsables des médias sociaux utilisent des réponses trop faciles : nous avons gagné tant d’abonnés sur Twitter, obtenu tant de retweets, de partages Facebook et ainsi de suite. Effectivement, ces indicateurs proposent des informations de surface sur la performance d’une campagne ou d’un contenu en particulier, mais ils ne montrent pas vraiment à votre patron en quoi vos initiatives ont des retombées sur le résultat net.
