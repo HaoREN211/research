@@ -1,6 +1,6 @@
 # Redshift - SQL script example
+
 -- d_sequence is a sequence containing the numbers from 0 to 14.
-"""
 SELECT avg(nb_liked) as "nombre moyen de likes", 
         sum(nb_liked) as "nombre total de likes", 
         social_network_name as "réseau social", 
@@ -20,4 +20,3 @@ FROM (
 WHERE json_field IS NOT NULL
 AND nombre_ligne=1
 GROUP BY json_field,social_network_name,creation_date;
-"""
