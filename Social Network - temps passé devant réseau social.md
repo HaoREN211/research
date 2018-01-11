@@ -12,7 +12,7 @@ C’est une erreur cruciale qui vous fera perdre du temps à terme.
 
 Très récemment, j’ai rencontré une entreprise innovante qui communiquait sur les réseaux sociaux depuis 18 mois. Elle n’a jamais gagné un client avec les réseaux sociaux et m’a contacté pour que je l’accompagner dans la définition de sa stratégie Réseaux Sociaux… ! Quelle perte de temps n’est-ce pas ?
 
-Pour gagner des clients avec les réseaux sociaux, il est indispensable de prévoir du temps pour définir une stratégie dans laquelle vous identifierez notamment les bons réseaux sociaux sur lesquels investir et votre ligne éditoriale.
+Pour gagner des clients avec les réseaux sociaux, ___il est indispensable de prévoir du temps pour définir une stratégie dans laquelle vous identifierez notamment les bons réseaux sociaux sur lesquels investir et votre ligne éditoriale.___
 
 ### 3. Prévoyez du temps pour réfléchir à qui sont vos clients
-Pour gagner des clients sur les réseaux sociaux, il est également important de prendre du temps pour comprendre qui sont vos clients : quelles sont les problématiques qu’ils rencontrent ? Quelles sont leurs attentes ? Leurs centres d’intérêt ? Leurs usages sur les réseaux sociaux.
+Pour gagner des clients sur les réseaux sociaux, il est également important de prendre du temps pour comprendre qui sont vos clients : ___quelles sont les problématiques qu’ils rencontrent ? Quelles sont leurs attentes ? Leurs centres d’intérêt ? Leurs usages sur les réseaux sociaux.___
