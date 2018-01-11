@@ -46,3 +46,12 @@ Voici la répartition approximative de nos tâches sur les réseaux sociaux :
 * Mercredi : 30 minutes pour répondre à commentaires et sollicitations clients + 1h pour travailler sur une publication de fond très engageante (vidéo, article…)
 * Jeudi : 30 minutes pour répondre à commentaires et sollicitations clients.
 * Vendredi : 30 minutes pour répondre à commentaires et sollicitations clients + 30 minutes pour analyser les performances de la semaine.
+
+### 7. Combien de temps passer sur les réseaux sociaux ? Ça dépend !
+Vous l’aurez compris : il n’y a pas vraiment de réponse toute faite à la question “combien de temps passer sur les réseaux sociaux ?”.
+
+Tout dépend de votre *marché*, de votre *cible* et de vos *objectifs*. C’est pour cela qu’il est important de définir précisément vos objectifs, travailler vos Personas et plus globalement une stratégie pour votre communication sur les réseaux sociaux.
+
+Communiquer sur les réseaux sociaux vous demandera plus de temps au début. Puis, au fur et à mesure que vous analyserez les performances de vos publications, vous serez à même d’optimiser vos actions et donc de gagner du temps tout en améliorant votre retour sur investissement.
+
+### Vous voulez aller plus loin et gagner des clients avec vos réseaux sociaux ? Voici notre [guide](https://offre.ludosln.net/livre-blanc-7-%C3%A9tapes-pour-attirer-plus-de-clients-avec-internet-et-reseaux-sociaux-0?hsCtaTracking=bc2263b2-cb16-4bce-8a76-79cb1af279e6%7C623a9914-693c-47a5-bb0f-7492690ef8c2/) complet et ses 25 pages pour communiquer efficacement sur les réseaux sociaux !
