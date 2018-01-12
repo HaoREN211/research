@@ -3,4 +3,4 @@
 Avinash Kaushik
 Author, Digital Marketing Evangelist - Google, Co-founder - Market Motive.
 ```
-
+Social media is evolving at an incredible pace. Most of us have no idea how to participate optimally in this unique channel – we are doing TV on Twitter (breaks my heart). The impact on the data side of the ecosystem is that massive amounts of data is being generated and much of what goes for measurement in "social media tools" is profoundly sub optimal (I'm being polite). We have IT-minded people engaging in massive data puking (one report with 30 metrics anyone?) and Marketing-minded people who are using lousy measures of success ("I got 158,632 Fans! Hurray!").
