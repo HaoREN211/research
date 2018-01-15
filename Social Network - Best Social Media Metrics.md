@@ -113,3 +113,59 @@ It is not very hard to do. Read the two posts immediately above. They share very
 What to do with it?
 
 ![pi](https://www.kaushik.net/avinash/wp-content/uploads/2011/10/macro_micro_conversion_economic_value.png)
+
+Your job is to identify that blue arrow, and the orange box (what it stands for and what the amount is). It is not very hard, just takes a little patience and imagination.
+
+And here is the incredible, amazing, magical thing. Once you have your highest level segmented view of the acquisition strategy, above, you can in two seconds segment down to individual channels you participate in.
+
+Your view will look something like the one below, from Google Analytics:
+
+![google Analytics](https://www.kaushik.net/avinash/wp-content/uploads/2011/10/economic_value_per_social_media_channel.png)
+
+Focus on the Per Visit Goal Value (economic value delivered by visitors from social media channels across my macro and micro conversions – note the 0% in the macro conversions column, ouch!) for each channel. StumbleUpon rocks ($1.43), Twitter takes the next spot (around $0.60) and then comes Facebook ($0.26, clearly not a winner for me).
+
+Now, not only can I tell my CEO what the small amount of direct value added to the business is, I can also report to her/him exactly which channels are contributing how much. You can't be in every social channel that pops up. The above data can give you guidance on where to be.
+
+You do Economic Value and you will never, ever have to beg for investment in Social Media, and your career will get on the fast track. I promise.
+
+And just to repeat one more time. ___A vast majority of value your business / brand gets from social media will be owning your message, building the watering hole I've mentioned, having a direct relationship with your customers and so much more. But showing some direct economic value will get you permission to do more of that.___ Without it you are just another "smarty pants" promising "vague outcomes" via "the next hip thing."
+
+### How to measure it?
+Use Google Analytics, Omniture, WebTrends, CoreIBMInsights, etc.
+
+Takes less than five minutes to set up. Provides a lifetime of joy.
+
+## Four Metrics That Rock.
+___Conversation Rate. Amplification Rate. Applause Rate. Economic Value. Four simple measures that get you to focus on the right thing from a social media participation perspective, help you understand how well you are doing at it, and quantify the business impact.___
+
+The challenge is that thus far it is hard to pull them all together in one place. As I had mentioned earlier, Excel is your bff for now. My hope is that vendors will stop creating tools in silos (just do Twitter or Facebook or Google Plus or YouTube or…) and start to think of real world needs of Brands and Businesses and pull together metrics we need into one place (from all social channels).
+
+## What About Social Media Advertising?
+If you are engaging in ___brand advertising on social media channels___ then the metrics you should solve for should be the first three. If you do a Promoted Tweet or Facebook Like campaign or whatever Google+ decides to come up with then you want to measure resulting Conversation, Amplification and Applause (of course only if you did not stink at your campaign).
+
+If you are engaging in ___direct response advertising on social media channels___ then the fourth metric, Economic Value delivered, comes into play from a strategic perspective. It covers both the immediate value (revenue via macro conversions) and the longer term value (economic value via micro conversions).
+
+For tactical reporting of your direct response social media campaigns, the metrics you'll use will be the ones I've recommended for all other advertising channels (paid search, display, affiliate, whatever).
+
+Here's that picture, applied to SM DR campaigns:
+![social_media_direct_response_advertising_metrics](https://www.kaushik.net/avinash/wp-content/uploads/2011/10/social_media_direct_response_advertising_metrics.png)
+
+Value Per Acquisition. Shoot for that.
+
+It will be hard. The enchanting temptresses that are Clicks and Impressions and Avg. CPC will try to lead you astray. Resist their charms. Trust me.
+
+Go for Ninja-hood.
+
+## Closing Thoughts.
+Social media presents and incredible opportunity to rethink what it means to connect with and influence customers. You need to forget what has worked in the past (and that is why this is so incredibly hard to do. The biggest brands in the world embarrass themselves every day on social media). You'll have to rewire your brain.
+
+In presenting new metrics for you to measure, what I'm really trying to do is provide a very small assistance in helping you think differently.
+
+## Update: Bonus: 
+Erik Ohlen was inspired by this blog post to create a very simple, and effective, dashboard where you can track the four recommended social media metrics.
+
+![bonus](https://www.kaushik.net/avinash/wp-content/uploads/2013/12/dashboard-best-social-media-metrics11.png)
+
+Currently if you want to report these metrics exactly as defined above and from ALL the social channels mentioned then you have to do so manually. Small price to pay for communicating the actual impact of social media to your management right?
+
+Sheet 1 is the dashboard itself, with instructions. Sheet 2 is where you type in the raw data. Could not be simpler.
