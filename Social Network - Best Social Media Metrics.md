@@ -111,4 +111,5 @@ Social media participation, done right, adds value to the company's bottom-line.
 It is not very hard to do. Read the two posts immediately above. They share very specific guidance for businesses of different types (B2B, B2C, A2K) about how to identify the macro and micro conversions and then compute economic value.
 ### 
 What to do with it?
-[pi](https://www.kaushik.net/avinash/wp-content/uploads/2011/10/macro_micro_conversion_economic_value.png)
+
+![pi](https://www.kaushik.net/avinash/wp-content/uploads/2011/10/macro_micro_conversion_economic_value.png)
