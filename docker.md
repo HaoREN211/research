@@ -1,3 +1,6 @@
+# Search Image
+`docker search {nom d'image}`
+
 # MySQL
 docker run --name mysqlserver -v /host/dir:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql:latest
 
